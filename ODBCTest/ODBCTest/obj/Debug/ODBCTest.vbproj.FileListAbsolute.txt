@@ -1,0 +1,10 @@
+E:\hxcs\ODBCTest\ODBCTest\bin\Debug\ODBCTest.exe.config
+E:\hxcs\ODBCTest\ODBCTest\bin\Debug\ODBCTest.exe
+E:\hxcs\ODBCTest\ODBCTest\bin\Debug\ODBCTest.pdb
+E:\hxcs\ODBCTest\ODBCTest\bin\Debug\ODBCTest.xml
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.Form1.resources
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.Resources.resources
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.vbproj.GenerateResource.Cache
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.exe
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.xml
+E:\hxcs\ODBCTest\ODBCTest\obj\Debug\ODBCTest.pdb

@@ -1,0 +1,13 @@
+E:\hxcs\HXCS\HXCS\bin\Debug\HXCS.exe.config
+E:\hxcs\HXCS\HXCS\bin\Debug\HXCS.exe
+E:\hxcs\HXCS\HXCS\bin\Debug\HXCS.pdb
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.Resources.resources
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.vbproj.GenerateResource.Cache
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.exe
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.pdb
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.xml
+E:\hxcs\HXCS\HXCS\bin\Debug\HXCS.xml
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.frmInfo.resources
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.frmlogin.resources
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.vbproj.ResolveComReference.cache
+E:\hxcs\HXCS\HXCS\obj\Debug\HXCS.FormLog.resources
